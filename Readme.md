@@ -14,6 +14,17 @@ The project also focuses on data cleaning, handling null values, and solving rea
 
 An ERD diagram is included to visually represent the database schema and relationships between tables.
 
+## **Database and Tools used**:
+MYSQL : For Validation and Querying 
+Bi :- Creating the Dashboards
+Excel :- For Manual Testing using Pivot Tables
+
+## **Amazon 360 insights Sales Model View Schema diagram:**
+---
+![image](https://github.com/user-attachments/assets/7cf6d166-d88a-4ad4-a123-4ae103d1e38e)
+
+---
+
 ## **Task: Data Cleaning**
 
 I cleaned the dataset by:
